@@ -6,6 +6,11 @@ from Tkinter import *
 import tkFileDialog as filedialog
 import FileDialog
 
+"""
+- create a new module for tests 
+"""
+
+
 root = Tk()
 root.withdraw()
 try:
